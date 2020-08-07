@@ -68,8 +68,8 @@ So if your API result looks like:
 
 ```json
 {
-    'data': {
-        'users': []
+    "data": {
+        "users": []
     }
 }
 ```
