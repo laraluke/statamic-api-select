@@ -8,7 +8,7 @@ API Select requires a license.
 
 You can purchase one at https://statamic.com/marketplace/addons/api-select
 
-You may use Position without a license while Statamic is in [Trial mode](https://docs.statamic.com/knowledge-base/trial-mode).
+You may use API Select without a license while Statamic is in [Trial mode](https://docs.statamic.com/knowledge-base/trial-mode).
 
 ## Installation
 
