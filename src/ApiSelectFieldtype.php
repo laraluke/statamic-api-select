@@ -56,7 +56,7 @@ class ApiSelectFieldtype extends Fieldtype
                 'width' => 25,
             ],
             'item_key' => [
-                'display' => __('Option Key'),
+                'display' => __('Item Key'),
                 'instructions' => __('Define the unique identifier to be used as the option value.'),
                 'type' => 'text',
                 'placeholder' => 'id',
