@@ -1,0 +1,20 @@
+{
+    "name": "laraluke/statamic-api-select",
+    "type": "statamic-addon",
+    "autoload": {
+        "psr-4": {
+            "Laraluke\\ApiSelectFieldtype\\": "src"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "API Select Fieldtype",
+            "description": "Utilise API endpoints for your Select Fieldtype options."
+        },
+        "laravel": {
+            "providers": [
+                "Laraluke\\ApiSelectFieldtype\\ServiceProvider"
+            ]
+        }
+    }
+}
